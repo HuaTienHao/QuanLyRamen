@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QLCuaHangRamen", "QLCuaHangRamen\QLCuaHangRamen.csproj", "{3A00A1DB-5ED6-4712-AABE-C55AC0F20B51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		All|Any CPU = All|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A00A1DB-5ED6-4712-AABE-C55AC0F20B51}.All|Any CPU.ActiveCfg = Release|Any CPU
+		{3A00A1DB-5ED6-4712-AABE-C55AC0F20B51}.All|Any CPU.Build.0 = Release|Any CPU
+		{3A00A1DB-5ED6-4712-AABE-C55AC0F20B51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A00A1DB-5ED6-4712-AABE-C55AC0F20B51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A00A1DB-5ED6-4712-AABE-C55AC0F20B51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A00A1DB-5ED6-4712-AABE-C55AC0F20B51}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {628C5704-22F5-490E-BABB-61319263DAC3}
+	EndGlobalSection
+EndGlobal
